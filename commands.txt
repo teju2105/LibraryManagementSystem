@@ -1,0 +1,15 @@
+py -m venv venv
+.\venv\Scripts\activate
+flask run
+
+required tools:
+visual studio
+
+reference docs for installation:
+
+https://learn.microsoft.com/en-us/training/modules/python-flask-build-ai-web-app/0-introduction
+
+https://www.how2shout.com/how-to/2-ways-to-install-latest-python-on-windows-11-or-10-gui-cmd.html
+
+to download python:
+https://www.python.org/downloads/
